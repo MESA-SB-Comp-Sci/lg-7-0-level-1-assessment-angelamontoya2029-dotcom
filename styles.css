@@ -21,24 +21,24 @@ h1 {
 
 .main-styles {
     background-color: #f5f5f5;
-    padding: 24px;
-    height: 600px;
+    padding: 2vw;
+    height: 6vw;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 5vw;
     color: #2E4057;
 }
 
 p {
-    font-size: 16px;
+    font-size: 1vw;
     color: #555;
 }
 
 img {
-    width: 800px;
+    width: 50vw;
     display: block;
-    margin-bottom: 16px;
+    margin: bottom 16vw;
 }
 
 .list-styles {
